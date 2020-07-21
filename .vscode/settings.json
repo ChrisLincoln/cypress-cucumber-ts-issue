@@ -1,0 +1,11 @@
+{
+  "gherkin-autocomplete.featuresPath": "../features",
+  "cucumberautocomplete.steps": [
+      "../cypress/integration/*.step.js"
+  ],
+  "cucumberautocomplete.syncfeatures": "../features/*feature",
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "verily.selectedProject": "f61f2b4f-6b60-4247-a7d6-1ae3568aa960",
+  "verily.featuresPath": "cypress/integration/features",
+  "verily.stepsPath": "cypress/integration/steps"
+}
